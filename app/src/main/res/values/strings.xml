@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FestivalApplication</string>
+    <string name="costs_overview">Kostenübersicht</string>
+    <string name="name">Name der Ausgabe</string>
+    <string name="price">Kosten der Ausgabe</string>
+    <string name="button">Zur Kostenübersicht hinzufügen</string>
+    <string name="new_costs">Neue Kosten</string>
+    <string name="total">Gesamtausgaben</string>
 </resources>
